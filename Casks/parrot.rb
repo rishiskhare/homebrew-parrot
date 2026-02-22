@@ -1,7 +1,7 @@
 cask "parrot" do
   version "26.2.1"
 
-  sha256 "REPLACE_WITH_ARM_DMG_SHA256"
+  sha256 "f9b53737f44c29bcba8148bc3d4d5ee841b7ea895c3afd15cab167c86d92e7e2"
   url "https://github.com/rishiskhare/parrot/releases/download/v#{version}/Parrot_#{version}_aarch64.dmg"
 
   name "Parrot"
